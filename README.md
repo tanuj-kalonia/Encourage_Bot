@@ -1,5 +1,5 @@
 # Encourage_Bot
-A discord bot that encourages user to keep moving forward in life whenver they are sad or depressed.
+### A discord bot that encourages user to keep moving forward in life whenver they are sad or depressed.
 
 Following are the sets of command, a user can fire to trigger the bot response
 
